@@ -1,0 +1,6 @@
+2023-05-14 12:05:12 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "WEB_USER" not found; SQL statement:
+select w1_0.id,w1_0.uuid from web_user w1_0 where w1_0.uuid=? [42102-214]
+2023-05-14 12:05:12 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "WEB_USER" not found; SQL statement:
+select w1_0.id,w1_0.uuid from web_user w1_0 where w1_0.uuid=? [42102-214]
